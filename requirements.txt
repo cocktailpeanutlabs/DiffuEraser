@@ -1,6 +1,7 @@
 diffusers==0.29.2
 accelerate==0.25.0
-opencv-python==4.9.0.80
+opencv-python
+#opencv-python==4.9.0.80
 imageio==2.34.1
 matplotlib
 transformers==4.41.1
